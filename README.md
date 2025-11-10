@@ -1,6 +1,8 @@
 # Design_Profissional_UDF
 
+Repositório para atividades da disciplina **Design Profissional**.
 
+## Conteúdos abordados
 
 - Projeto de perfil profissional  
 - Planejamento de carreira  
