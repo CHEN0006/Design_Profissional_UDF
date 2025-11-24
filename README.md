@@ -1,9 +1,10 @@
 # Design_Profissional_UDF
 
-Repositório para atividades da disciplina **Design Profissional**.
+Este repositório contém as atividades desenvolvidas na disciplina Design Profissional do curso de Ciência da Computação.  
+O objetivo é promover o desenvolvimento de competências relacionadas à atuação ética, planejamento de carreira e construção de um perfil profissional.
 
-## Conteúdos abordados
+## Conteúdo
 
-- Projeto de perfil profissional  
-- Planejamento de carreira  
-- Posicionamento ético e responsável no exercício profissional
+- Construção do perfil de atuação  
+- Definição de metas e trajetória profissional  
+- Ética e compromisso na prática da computação
